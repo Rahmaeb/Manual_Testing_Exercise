@@ -21,6 +21,6 @@ Submit Button (OK): To submit the form.
 
 ## Files in This Repository
 - `README.md`: Project overview.
-- `TestCases.md`: Documented test cases.
+- `TestCases.xlsx`: Documented test cases.
 - `UI.jpg`: Screenshot of the form interface.
 
